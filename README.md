@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RomanK26" alt="RomanK26" /></a> </p>
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **rkasichhwa1@gmail.com**
 
